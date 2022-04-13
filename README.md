@@ -1,5 +1,5 @@
 # Loan_Default_Prediction
-This repository contains a jupyter notebook file of the submission I made to the Loan Default Prediction Challenge on Zindi see more [here](https://zindi.africa/competitions/data-science-nigeria-challenge-1-loan-default-prediction).
+This repository contains a jupyter notebook file of the submission I made to the Loan Default Prediction Challenge on Zindi see more [here](https://zindi.africa/competitions/loan-default-prediction-challenge).
 
 ## Task Description
 SuperLender is a local digital lending company, which prides itself in its effective use of credit risk models to deliver profitable and high-impact loan alternative. Its assessment approach is based on two main risk drivers of loan default prediction:. 1) willingness to pay and 2) ability to pay. Since not all customers pay back, the company invests in experienced data scientist to build robust models to effectively predict the odds of repayment.
@@ -11,4 +11,4 @@ There are two types of risk models in general: New business risk, which would be
 It is your job to predict if a loan was good or bad, i.e. accurately predict binary outcome variable, where Good is 1 and Bad is 0.
 
 ## Ranking
-This solution was among the top 2% in the Zindi's leaderboard. You can see more about it on the notebook
+This solution is currently ranked Ist on the Zindi's leaderboard. You can see more about it on the notebook
