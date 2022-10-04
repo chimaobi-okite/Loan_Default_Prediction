@@ -11,4 +11,4 @@ There are two types of risk models in general: New business risk, which would be
 It is your job to predict if a loan was good or bad, i.e. accurately predict binary outcome variable, where Good is 1 and Bad is 0.
 
 ## Ranking
-This solution is currently ranked Ist on the Zindi's leaderboard. You can see more about it on the notebook
+This solution is currently ranked Ist on Zindi's leaderboard. You can see more about it on the notebook
